@@ -1,0 +1,87 @@
+.background{
+    background-image: url(../assets/img/favorites_background.jpg);
+    background-position: center;
+}
+.common{
+    position: absolute;
+    
+    
+}
+
+.links{
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 50px;
+    text-align: center;
+
+    
+}
+
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: black 4px;
+    outline: black;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 22.89%;
+    margin: auto;
+}
+
+.list{
+    top: 56px;
+    left: 0px;
+    width: 400px;
+    bottom: 42px;
+    text-align: center;
+    
+
+}
+
+.Tableau{
+    top: 56px;
+    left: 406px;
+    right: 400px;
+    bottom: 300px;
+    text-align: center;
+}
+
+.poster{
+    top: 56px;
+    right: 0px;
+    width: 394px;
+    bottom: 42px;
+    text-align: center;
+}
+
+.video{
+    left: 406px;
+    right:400px;
+    height: 50px;
+    bottom: 0px ;
+    text-align: center;
+}
+
+.footer{
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 39px;
+    text-align: center;
+    position: fixed;
+}
+
+.title{
+    font-family: fantasy;
+    color: #555;
+}
+
+.listbody{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hwb(0 0% 100%);
+    text-align: left;
+}
+
